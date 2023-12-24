@@ -13,7 +13,7 @@
     <div style="flex: 1; padding: 10px;">
         <h3>University Chat Bot</h3>
         <img width="1552" alt="Screenshot of University Chat Bot" src="https://github.com/Ch3ngL0rd/Ch3ngL0rd/assets/85885968/078d45e4-6cd2-4d29-b105-4a9dbe7bb3c0">
-        <p><strong>Description:</strong> A chatbot for student queries, built with full stack JavaScript and Supabase.</p>
+        <p><strong>Description:</strong> A chatbot for student queries, built with full stack JavaScript and Supabase. Used <code>text-embedding-ada-002</code> for embeddings and <code>gpt-3.5-turbo</code> for responses.</p>
     </div>
 </div>
 
