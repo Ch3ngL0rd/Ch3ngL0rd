@@ -1,6 +1,6 @@
 <h1>Zachary Cheng</h1>
 
-<p>Welcome to my GitHub! I'm a Software Engineering student at the University of Western Australia, specializing in full stack development with a keen interest in AI and educational technology.</p>
+<p>Welcome to my GitHub! I'm a Software Engineering student at the University of Western Australia, specialising in full stack development with a keen interest in AI and educational technology.</p>
 
 <h2>Projects</h2>
 
